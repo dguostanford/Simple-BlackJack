@@ -10,7 +10,7 @@ A blackjack game in the terminal
 ## Installation
 
 ```
-$ git clone https://github.com/pwildenhain/blackjack.git
+$ git clone https://github.com/dguostanford/Simple-Blackjack.git
 $ cd blackjack
 $ pipenv install
 ```
@@ -18,5 +18,6 @@ $ pipenv install
 ## Play the game
 
 ```
-$ 1
+$ 1. pipenv shell
+$ 2. python -m blackjack
 ```
